@@ -1,0 +1,50 @@
+Match,Innings,Date,M/Inns,Posn,Versus,Ground,How Dismissed,Runs,B/F,S/R,,Runs,B/F,Avg,S/R
+1,,17/04/2014,2nd,-,Delhi Capitals,Sharjah Cricket Stadium,did not bat,-,-,-,,0,0,,-
+2,,19/04/2014,2nd,-,Mumbai Indians,Dubai International Cricket Stadium,did not bat,-,-,-,,0,0,,-
+3,1,24/04/2014,2nd,7,Kolkata Knight Riders,Sharjah Cricket Stadium,not out,0*,0,-,,0,0,,-
+4,2,26/04/2014,1st,8,Rajasthan Royals,Sheikh Zayed Stadium,c S T R Binny b R Bhatia,18,16,112.50,,18,16,18.00,112.50
+5,3,28/04/2014,1st,8,Punjab Kings,Dubai International Cricket Stadium,b M G Johnson,8,17,47.06,,26,33,13.00,78.79
+6,4,04/05/2014,2nd,7,Sunrisers Hyderabad,M Chinnaswamy Stadium,run out,5,8,62.50,,31,41,10.33,75.61
+7,5,06/05/2014,2nd,7,Mumbai Indians,Wankhede Stadium,c K A Pollard b S L Malinga,5,4,125.00,,36,45,9.00,80.00
+8,6,09/05/2014,2nd,8,Punjab Kings,M Chinnaswamy Stadium,c D A Miller b L Balaji,29,23,126.09,,65,68,13.00,95.59
+9,,11/05/2014,1st,-,Rajasthan Royals,M Chinnaswamy Stadium,did not bat,-,-,-,,65,68,13.00,95.59
+10,,13/05/2014,1st,-,Delhi Capitals,M Chinnaswamy Stadium,did not bat,-,-,-,,65,68,13.00,95.59
+11,,18/05/2014,2nd,-,Chennai Super Kings,JSCA International Stadium Complex,did not bat,-,-,-,,65,68,13.00,95.59
+12,7,20/05/2014,1st,7,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,run out,6,6,100.00,,71,74,11.83,95.95
+13,8,22/05/2014,2nd,7,Kolkata Knight Riders,Eden Gardens,not out,12*,8,150.00,,83,82,13.83,101.22
+14,9,24/05/2014,1st,8,Chennai Super Kings,M Chinnaswamy Stadium,not out,2*,2,100.00,,85,84,14.17,101.19
+15,10,22/04/2015,2nd,9,Chennai Super Kings,M Chinnaswamy Stadium,not out,9*,6,150.00,,94,90,15.67,104.44
+16,,24/04/2015,2nd,-,Rajasthan Royals,Narendra Modi Stadium,did not bat,-,-,-,,94,90,15.67,104.44
+17,,26/04/2015,2nd,-,Delhi Capitals,Arun Jaitley Stadium,did not bat,-,-,-,,94,90,15.67,104.44
+18,,29/04/2015,1st,-,Rajasthan Royals,M Chinnaswamy Stadium,did not bat,-,-,-,,94,90,15.67,104.44
+19,,02/05/2015,2nd,-,Kolkata Knight Riders,M Chinnaswamy Stadium,did not bat,-,-,-,,94,90,15.67,104.44
+20,11,04/05/2015,2nd,9,Chennai Super Kings,MA Chidambaram Stadium,c S K Raina b M M Sharma,1,7,14.29,,95,97,13.57,97.94
+21,,06/05/2015,1st,-,Punjab Kings,M Chinnaswamy Stadium,did not bat,-,-,-,,95,97,13.57,97.94
+22,,10/05/2015,1st,-,Mumbai Indians,Wankhede Stadium,did not bat,-,-,-,,95,97,13.57,97.94
+23,,13/05/2015,2nd,-,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,did not bat,-,-,-,,95,97,13.57,97.94
+24,,15/05/2015,2nd,-,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,did not bat,-,-,-,,95,97,13.57,97.94
+25,,17/05/2015,2nd,-,Delhi Capitals,M Chinnaswamy Stadium,did not bat,-,-,-,,95,97,13.57,97.94
+26,,20/05/2015,1st,-,Rajasthan Royals,Maharashtra Cricket Association Stadium,did not bat,-,-,-,,95,97,13.57,97.94
+27,12,22/05/2015,1st,9,Chennai Super Kings,JSCA International Stadium Complex,not out,1*,1,100.00,,96,98,13.71,97.96
+28,13,23/03/2024,1st,9,Sunrisers Hyderabad,Eden Gardens,not out,6*,3,200.00,,102,101,14.57,100.99
+29,,29/03/2024,2nd,-,Royal Challengers Bengaluru,M Chinnaswamy Stadium,did not bat,-,-,-,,102,101,14.57,100.99
+30,14,03/04/2024,1st,9,Delhi Capitals,Dr YS Rajasekhara Reddy Cricket Stadium,not out,1*,1,100.00,,103,102,14.71,100.98
+31,15,08/04/2024,1st,10,Chennai Super Kings,MA Chidambaram Stadium,c R Ravindra b Mustafizur Rahman,0,3,0.00,,103,105,12.88,98.10
+32,,14/04/2024,2nd,-,Lucknow Super Giants,Eden Gardens,did not bat,-,-,-,,103,105,12.88,98.10
+33,,16/04/2024,1st,-,Rajasthan Royals,Eden Gardens,did not bat,-,-,-,,103,105,12.88,98.10
+34,,21/04/2024,1st,-,Royal Challengers Bengaluru,Eden Gardens,did not bat,-,-,-,,103,105,12.88,98.10
+35,,29/04/2024,2nd,-,Delhi Capitals,Eden Gardens,did not bat,-,-,-,,103,105,12.88,98.10
+36,16,03/05/2024,1st,10,Mumbai Indians,Wankhede Stadium,b J J Bumrah,0,2,0.00,,103,107,11.44,96.26
+37,,05/05/2024,1st,-,Lucknow Super Giants,BRSABV Ekana Cricket Stadium,did not bat,-,-,-,,103,107,11.44,96.26
+38,17,11/05/2024,1st,9,Mumbai Indians,Eden Gardens,not out,2*,2,100.00,,105,109,11.67,96.33
+39,,19/05/2024,2nd,-,Rajasthan Royals,Barsapara Cricket Stadium,did not bat,-,-,-,,105,109,11.67,96.33
+40,,21/05/2024,2nd,-,Sunrisers Hyderabad,Narendra Modi Stadium,did not bat,-,-,-,,105,109,11.67,96.33
+41,,26/05/2024,2nd,-,Sunrisers Hyderabad,MA Chidambaram Stadium,did not bat,-,-,-,,105,109,11.67,96.33
+42,18,24/03/2025,2nd,9,Lucknow Super Giants,Dr YS Rajasekhara Reddy Cricket Stadium,c †R R Pant b Ravi Bishnoi,2,5,40.00,,107,114,10.70,93.86
+43,,30/03/2025,2nd,-,Sunrisers Hyderabad,Dr YS Rajasekhara Reddy Cricket Stadium,did not bat,-,-,-,,107,114,10.70,93.86
+44,,05/04/2025,1st,-,Chennai Super Kings,MA Chidambaram Stadium,did not bat,-,-,-,,107,114,10.70,93.86
+45,,10/04/2025,2nd,-,Royal Challengers Bengaluru,M Chinnaswamy Stadium,did not bat,-,-,-,,107,114,10.70,93.86
+46,19,13/04/2025,2nd,9,Mumbai Indians,Arun Jaitley Stadium,not out,1*,1,100.00,,108,115,10.80,93.91
+47,,16/04/2025,1st,-,Rajasthan Royals,Arun Jaitley Stadium,did not bat,-,-,-,,108,115,10.80,93.91
+48,20,19/04/2025,1st,9,Gujarat Titans,Narendra Modi Stadium,not out,2*,2,100.00,,110,117,11.00,94.02
+49,,22/04/2025,2nd,-,Lucknow Super Giants,BRSABV Ekana Cricket Stadium,did not bat,-,-,-,,110,117,11.00,94.02

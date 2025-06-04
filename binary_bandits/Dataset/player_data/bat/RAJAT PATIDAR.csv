@@ -1,0 +1,42 @@
+Match,Innings,Date,M/Inns,Posn,Versus,Ground,How Dismissed,Runs,B/F,S/R,,Runs,B/F,Avg,S/R
+1,1,09/04/2021,2nd,3,Mumbai Indians,MA Chidambaram Stadium,b T A Boult,8,8,100.00,,8,8,8.00,100.00
+2,2,18/04/2021,1st,3,Kolkata Knight Riders,MA Chidambaram Stadium,b C V Varun,1,2,50.00,,9,10,4.50,90.00
+3,3,27/04/2021,1st,3,Delhi Capitals,Narendra Modi Stadium,c S P D Smith b A R Patel,31,22,140.91,,40,32,13.33,125.00
+4,4,30/04/2021,2nd,3,Punjab Kings,Narendra Modi Stadium,c N Pooran b C J Jordan,31,30,103.33,,71,62,17.75,114.52
+5,5,26/04/2022,2nd,3,Rajasthan Royals,Maharashtra Cricket Association Stadium,b R Ashwin,16,16,100.00,,87,78,17.40,111.54
+6,6,30/04/2022,1st,3,Gujarat Titans,Brabourne Stadium,c Shubman Gill b P J Sangwan,52,32,162.50,,139,110,23.17,126.36
+7,7,04/05/2022,1st,5,Chennai Super Kings,Maharashtra Cricket Association Stadium,c Mukesh Choudhary b D Pretorius,21,15,140.00,,160,125,22.86,128.00
+8,8,08/05/2022,1st,3,Sunrisers Hyderabad,Wankhede Stadium,c R A Tripathi b J Suchith,48,38,126.32,,208,163,26.00,127.61
+9,9,13/05/2022,2nd,3,Punjab Kings,Brabourne Stadium,c S Dhawan b R D Chahar,26,21,123.81,,234,184,26.00,127.17
+10,,19/05/2022,2nd,-,Gujarat Titans,Wankhede Stadium,did not bat,-,-,-,,234,184,26.00,127.17
+11,10,25/05/2022,1st,3,Lucknow Super Giants,Eden Gardens,not out,112*,54,207.41,,346,238,38.44,145.38
+12,11,27/05/2022,1st,3,Rajasthan Royals,Narendra Modi Stadium,c J C Buttler b R Ashwin,58,42,138.10,,404,280,40.40,144.29
+13,12,22/03/2024,1st,3,Chennai Super Kings,MA Chidambaram Stadium,c †M S Dhoni b Mustafizur Rahman,0,3,0.00,,404,283,36.73,142.76
+14,13,25/03/2024,2nd,4,Punjab Kings,M Chinnaswamy Stadium,b Harpreet Brar,18,18,100.00,,422,301,35.17,140.20
+15,14,29/03/2024,1st,5,Kolkata Knight Riders,M Chinnaswamy Stadium,c Ramandeep Singh b A D Russell,3,4,75.00,,425,305,32.69,139.34
+16,15,02/04/2024,2nd,3,Lucknow Super Giants,M Chinnaswamy Stadium,c D Padikkal b M P Yadav,29,21,138.10,,454,326,32.43,139.26
+17,,06/04/2024,1st,-,Rajasthan Royals,Sawai Mansingh Stadium,did not bat,-,-,-,,454,326,32.43,139.26
+18,16,11/04/2024,1st,4,Mumbai Indians,Wankhede Stadium,c †Ishan Kishan b G Coetzee,50,26,192.31,,504,352,33.60,143.18
+19,17,15/04/2024,2nd,4,Sunrisers Hyderabad,M Chinnaswamy Stadium,c N K Reddy b M Markande,9,5,180.00,,513,357,32.06,143.70
+20,18,21/04/2024,2nd,4,Kolkata Knight Riders,Eden Gardens,c H P Rana b A D Russell,52,23,226.09,,565,380,33.24,148.68
+21,19,25/04/2024,1st,4,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,c Abdul Samad b J D Unadkat,50,20,250.00,,615,400,34.17,153.75
+22,,28/04/2024,2nd,-,Gujarat Titans,Narendra Modi Stadium,did not bat,-,-,-,,615,400,34.17,153.75
+23,20,04/05/2024,2nd,4,Gujarat Titans,M Chinnaswamy Stadium,c D A Miller b J B Little,2,3,66.67,,617,403,32.47,153.10
+24,21,09/05/2024,1st,4,Punjab Kings,Himachal Pradesh Cricket Association Stadium,c †J M Bairstow b S M Curran,55,23,239.13,,672,426,33.60,157.75
+25,22,12/05/2024,1st,4,Delhi Capitals,M Chinnaswamy Stadium,c A R Patel b Rasikh Salam,52,32,162.50,,724,458,34.48,158.08
+26,23,18/05/2024,1st,3,Chennai Super Kings,M Chinnaswamy Stadium,c D J Mitchell b S N Thakur,41,23,178.26,,765,481,34.77,159.04
+27,24,22/05/2024,1st,4,Rajasthan Royals,Narendra Modi Stadium,c R Parag b Avesh Khan,34,22,154.55,,799,503,34.74,158.85
+28  (c),25,22/03/2025,2nd,4,Kolkata Knight Riders,Eden Gardens,c Rinku Singh b V G Arora,34,16,212.50,,833,519,34.71,160.50
+29  (c),26,28/03/2025,1st,4,Chennai Super Kings,MA Chidambaram Stadium,c S M Curran b M Pathirana,51,32,159.38,,884,551,35.36,160.44
+30  (c),27,02/04/2025,1st,4,Gujarat Titans,M Chinnaswamy Stadium,lbw b I Sharma,12,12,100.00,,896,563,34.46,159.15
+31  (c),28,07/04/2025,1st,4,Mumbai Indians,Wankhede Stadium,c †R D Rickelton b T A Boult,64,32,200.00,,960,595,35.56,161.34
+32  (c),29,10/04/2025,1st,4,Delhi Capitals,M Chinnaswamy Stadium,c †K L Rahul b Kuldeep Yadav,25,23,108.70,,985,618,35.18,159.39
+33  (c),,13/04/2025,2nd,-,Rajasthan Royals,Sawai Mansingh Stadium,did not bat,-,-,-,,985,618,35.18,159.39
+34  (c),30,18/04/2025,1st,3,Punjab Kings,M Chinnaswamy Stadium,c X C Bartlett b Y S Chahal,23,18,127.78,,1008,636,34.76,158.49
+35  (c),31,20/04/2025,2nd,4,Punjab Kings,Maharaja Yadavindra Singh International Cricket St,c M Jansen b Y S Chahal,12,13,92.31,,1020,649,34.00,157.16
+36  (c),32,24/04/2025,1st,5,Rajasthan Royals,M Chinnaswamy Stadium,c †D C Jurel b Sandeep Sharma,1,3,33.33,,1021,652,32.94,156.60
+37  (c),33,27/04/2025,2nd,4,Delhi Capitals,Arun Jaitley Stadium,run out,6,6,100.00,,1027,658,32.09,156.08
+38  (c),34,03/05/2025,1st,4,Chennai Super Kings,M Chinnaswamy Stadium,c S M Curran b M Pathirana,11,15,73.33,,1038,673,31.45,154.23
+39,35,23/05/2025,2nd,4,Sunrisers Hyderabad,BRSABV Ekana Cricket Stadium,run out,18,16,112.50,,1056,689,31.06,153.27
+40,36,27/05/2025,2nd,3,Lucknow Super Giants,BRSABV Ekana Cricket Stadium,c Abdul Samad b W P O'Rourke,14,7,200.00,,1070,696,30.57,153.74
+41  (c),37,29/05/2025,2nd,4,Punjab Kings,Maharaja Yadavindra Singh International Cricket St,not out,15*,8,187.50,,1085,704,31.00,154.12

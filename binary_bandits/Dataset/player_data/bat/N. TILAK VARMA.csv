@@ -1,0 +1,54 @@
+Match,Innings,Date,M/Inns,Posn,Versus,Ground,How Dismissed,Runs,B/F,S/R,,Runs,B/F,Avg,S/R
+1,1,27/03/2022,1st,4,Delhi Capitals,Brabourne Stadium,c P P Shaw b K K Ahmed,22,15,146.67,,22,15,22.00,146.67
+2,2,02/04/2022,2nd,4,Rajasthan Royals,Dr DY Patil Sports Academy,b R Ashwin,61,33,184.85,,83,48,41.50,172.92
+3,3,06/04/2022,1st,5,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,not out,38*,27,140.74,,121,75,60.50,161.33
+4,4,09/04/2022,1st,5,Royal Challengers Bengaluru,Maharashtra Cricket Association Stadium,run out,0,3,0.00,,121,78,40.33,155.13
+5,5,13/04/2022,2nd,4,Punjab Kings,Maharashtra Cricket Association Stadium,run out,36,20,180.00,,157,98,39.25,160.20
+6,6,16/04/2022,2nd,5,Lucknow Super Giants,Brabourne Stadium,b J O Holder,26,26,100.00,,183,124,36.60,147.58
+7,7,21/04/2022,1st,5,Chennai Super Kings,Dr DY Patil Sports Academy,not out,51*,43,118.60,,234,167,46.80,140.12
+8,8,24/04/2022,2nd,5,Lucknow Super Giants,Wankhede Stadium,c Ravi Bishnoi b J O Holder,38,27,140.74,,272,194,45.33,140.21
+9,9,30/04/2022,2nd,4,Rajasthan Royals,Dr DY Patil Sports Academy,c R Parag b M Prasidh Krishna,35,30,116.67,,307,224,43.86,137.05
+10,10,06/05/2022,1st,4,Gujarat Titans,Brabourne Stadium,run out,21,16,131.25,,328,240,41.00,136.67
+11,11,09/05/2022,2nd,3,Kolkata Knight Riders,Dr DY Patil Sports Academy,c N Rana b A D Russell,6,5,120.00,,334,245,37.11,136.33
+12,12,12/05/2022,2nd,4,Chennai Super Kings,Wankhede Stadium,not out,34*,32,106.25,,368,277,40.89,132.85
+13,13,17/05/2022,2nd,4,Sunrisers Hyderabad,Wankhede Stadium,c K S Williamson b Umran Malik,8,9,88.89,,376,286,37.60,131.47
+14,14,21/05/2022,2nd,4,Delhi Capitals,Wankhede Stadium,c †R R Pant b A Nortje,21,17,123.53,,397,303,36.09,131.02
+15,15,02/04/2023,1st,5,Royal Challengers Bengaluru,M Chinnaswamy Stadium,not out,84*,46,182.61,,481,349,43.73,137.82
+16,16,08/04/2023,1st,5,Chennai Super Kings,Wankhede Stadium,lbw b R A Jadeja,22,18,122.22,,503,367,41.92,137.06
+17,17,11/04/2023,2nd,3,Delhi Capitals,Arun Jaitley Stadium,c M K Pandey b M Kumar,41,29,141.38,,544,396,41.85,137.37
+18,18,16/04/2023,2nd,4,Kolkata Knight Riders,Wankhede Stadium,b S Sharma,30,25,120.00,,574,421,41.00,136.34
+19,19,18/04/2023,1st,5,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,c M A Agarwal b B Kumar,37,17,217.65,,611,438,40.73,139.50
+20,20,22/04/2023,2nd,6,Punjab Kings,Wankhede Stadium,b Arshdeep Singh,3,4,75.00,,614,442,38.38,138.91
+21,21,25/04/2023,2nd,4,Gujarat Titans,Narendra Modi Stadium,lbw b Rashid Khan,2,3,66.67,,616,445,36.24,138.43
+22,22,30/04/2023,2nd,5,Rajasthan Royals,Wankhede Stadium,not out,29*,21,138.10,,645,466,37.94,138.41
+23,23,03/05/2023,2nd,6,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,not out,26*,10,260.00,,671,476,39.47,140.97
+24,24,24/05/2023,1st,5,Lucknow Super Giants,MA Chidambaram Stadium,c D J Hooda b Naveen-ul-Haq,26,22,118.18,,697,498,38.72,139.96
+25,25,26/05/2023,2nd,5,Gujarat Titans,Narendra Modi Stadium,b Rashid Khan,43,14,307.14,,740,512,38.95,144.53
+26,26,24/03/2024,2nd,5,Gujarat Titans,Narendra Modi Stadium,c sub b S H Johnson,25,19,131.58,,765,531,38.25,144.07
+27,27,27/03/2024,2nd,4,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,c M A Agarwal b P J Cummins,64,34,188.24,,829,565,39.48,146.73
+28,28,01/04/2024,1st,5,Rajasthan Royals,Wankhede Stadium,c R Ashwin b Y S Chahal,32,29,110.34,,861,594,39.14,144.95
+29,29,07/04/2024,1st,5,Delhi Capitals,Wankhede Stadium,c A R Patel b K K Ahmed,6,5,120.00,,867,599,37.70,144.74
+30,30,11/04/2024,2nd,5,Royal Challengers Bengaluru,Wankhede Stadium,not out,16*,10,160.00,,883,609,38.39,144.99
+31,31,14/04/2024,2nd,4,Chennai Super Kings,Wankhede Stadium,c S N Thakur b M Pathirana,31,20,155.00,,914,629,38.08,145.31
+32,32,18/04/2024,1st,4,Punjab Kings,Maharaja Yadavindra Singh International Cricket St,not out,34*,18,188.89,,948,647,39.50,146.52
+33,33,22/04/2024,1st,4,Rajasthan Royals,Sawai Mansingh Stadium,c R Powell b Sandeep Sharma,65,45,144.44,,1013,692,40.52,146.39
+34,34,27/04/2024,2nd,4,Delhi Capitals,Arun Jaitley Stadium,run out,63,32,196.88,,1076,724,41.38,148.62
+35,35,30/04/2024,1st,4,Lucknow Super Giants,BRSABV Ekana Cricket Stadium,run out,7,11,63.64,,1083,735,40.11,147.35
+36,36,03/05/2024,2nd,5,Kolkata Knight Riders,Wankhede Stadium,c S P Narine b C V Varun,4,6,66.67,,1087,741,38.82,146.69
+37,37,06/05/2024,2nd,5,Sunrisers Hyderabad,Wankhede Stadium,not out,37*,32,115.63,,1124,773,40.14,145.41
+38,38,11/05/2024,2nd,4,Kolkata Knight Riders,Eden Gardens,c †P D Salt b H P Rana,32,17,188.24,,1156,790,39.86,146.33
+39,39,23/03/2025,1st,5,Chennai Super Kings,MA Chidambaram Stadium,lbw b Noor Ahmad,31,25,124.00,,1187,815,39.57,145.64
+40,40,29/03/2025,2nd,3,Gujarat Titans,Narendra Modi Stadium,c R Tewatia b M Prasidh Krishna,39,36,108.33,,1226,851,39.55,144.07
+41,,31/03/2025,2nd,-,Kolkata Knight Riders,Wankhede Stadium,did not bat,-,-,-,,1226,851,39.55,144.07
+42,41,04/04/2025,2nd,5,Lucknow Super Giants,BRSABV Ekana Cricket Stadium,retired,25,23,108.70,,1251,874,39.09,143.14
+43,42,07/04/2025,2nd,5,Royal Challengers Bengaluru,Wankhede Stadium,c P D Salt b B Kumar,56,29,193.10,,1307,903,39.61,144.74
+44,43,13/04/2025,1st,4,Delhi Capitals,Arun Jaitley Stadium,c A Porel b M Kumar,59,33,178.79,,1366,936,40.18,145.94
+45,44,17/04/2025,2nd,5,Sunrisers Hyderabad,Wankhede Stadium,not out,21*,17,123.53,,1387,953,40.79,145.54
+46,,20/04/2025,2nd,-,Chennai Super Kings,Wankhede Stadium,did not bat,-,-,-,,1387,953,40.79,145.54
+47,45,23/04/2025,2nd,5,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,not out,2*,2,100.00,,1389,955,40.85,145.45
+48,46,27/04/2025,1st,5,Lucknow Super Giants,Wankhede Stadium,c P Yadav b Ravi Bishnoi,6,5,120.00,,1395,960,39.86,145.31
+49,,01/05/2025,1st,-,Rajasthan Royals,Sawai Mansingh Stadium,did not bat,-,-,-,,1395,960,39.86,145.31
+50,47,06/05/2025,1st,5,Gujarat Titans,Wankhede Stadium,c Shubman Gill b G Coetzee,7,7,100.00,,1402,967,38.94,144.98
+51,48,21/05/2025,1st,5,Delhi Capitals,Wankhede Stadium,c S Rizvi b M Kumar,27,27,100.00,,1429,994,38.62,143.76
+52,49,26/05/2025,1st,4,Punjab Kings,Sawai Mansingh Stadium,c Arshdeep Singh b Vijaykumar Vyshak,1,4,25.00,,1430,998,37.63,143.29
+53,50,30/05/2025,1st,4,Gujarat Titans,Maharaja Yadavindra Singh International Cricket St,c †B K G Mendis b Mohammed Siraj,25,11,227.27,,1455,1009,37.31,144.20

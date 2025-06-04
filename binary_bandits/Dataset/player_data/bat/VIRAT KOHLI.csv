@@ -1,0 +1,267 @@
+Match,Innings,Date,M/Inns,Posn,Versus,Ground,How Dismissed,Runs,B/F,S/R,,Runs,B/F,Avg,S/R
+1,1,18/04/2008,2nd,3,Kolkata Knight Riders,M Chinnaswamy Stadium,b A B Dinda,1,5,20.00,,1,5,1.00,20.00
+2,2,20/04/2008,2nd,5,Mumbai Indians,Wankhede Stadium,c †L Ronchi b A Nehra,23,14,164.29,,24,19,12.00,126.32
+3,3,26/04/2008,1st,5,Rajasthan Royals,M Chinnaswamy Stadium,c †M  Rawat b M M Patel,13,14,92.86,,37,33,12.33,112.12
+4,4,28/04/2008,2nd,6,Chennai Super Kings,M Chinnaswamy Stadium,b J A Morkel,12,7,171.43,,49,40,12.25,122.50
+5,5,30/04/2008,2nd,7,Delhi Capitals,Arun Jaitley Stadium,not out,1*,1,100.00,,50,41,12.50,121.95
+6,6,03/05/2008,1st,3,Deccan Chargers,M Chinnaswamy Stadium,c S B Bangar b R P Singh,38,29,131.03,,88,70,17.60,125.71
+7,7,05/05/2008,1st,2,Punjab Kings,M Chinnaswamy Stadium,c S Sreesanth b I K Pathan,34,36,94.44,,122,106,20.33,115.09
+8,,08/05/2008,2nd,-,Kolkata Knight Riders,Eden Gardens,did not bat,-,-,-,,122,106,20.33,115.09
+9,8,12/05/2008,1st,2,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,b P P Chawla,21,22,95.45,,143,128,20.43,111.72
+10,9,17/05/2008,2nd,2,Rajasthan Royals,Sawai Mansingh Stadium,b Sohail Tanvir,3,7,42.86,,146,135,18.25,108.15
+11,10,21/05/2008,1st,3,Chennai Super Kings,MA Chidambaram Stadium,c J A Morkel b M Muralitharan,10,16,62.50,,156,151,17.33,103.31
+12,11,25/05/2008,2nd,6,Deccan Chargers,Rajiv Gandhi International Stadium,c D B  Ravi Teja b W P U J C Vaas,9,5,180.00,,165,156,16.50,105.77
+13,12,28/05/2008,1st,6,Mumbai Indians,M Chinnaswamy Stadium,c †Y V  Takawale b A Nehra,0,1,0.00,,165,157,15.00,105.10
+14,13,18/04/2009,1st,6,Rajasthan Royals,Newlands,b S K Warne,3,8,37.50,,168,165,14.00,101.82
+15,14,20/04/2009,2nd,7,Chennai Super Kings,St George's Park,c S Badrinath b Joginder Sharma,11,13,84.62,,179,178,13.77,100.56
+16,15,22/04/2009,2nd,6,Deccan Chargers,Newlands,c H H Gibbs b R P Singh,50,32,156.25,,229,210,16.36,109.05
+17,16,24/04/2009,1st,7,Punjab Kings,Kingsmead,c R S Bopara b V R Singh,2,3,66.67,,231,213,15.40,108.45
+18,17,26/04/2009,1st,5,Delhi Capitals,St George's Park,c T M Dilshan b A Nehra,22,24,91.67,,253,237,15.81,106.75
+19,18,29/04/2009,2nd,4,Kolkata Knight Riders,Kingsmead,c †M N van Wyk b B J Hodge,19,12,158.33,,272,249,16.00,109.24
+20,19,01/05/2009,1st,6,Punjab Kings,Kingsmead,c P P Chawla b I K Pathan,16,14,114.29,,288,263,16.00,109.51
+21,,03/05/2009,2nd,-,Mumbai Indians,Wanderers Stadium,did not bat,-,-,-,,288,263,16.00,109.51
+22,20,07/05/2009,1st,5,Rajasthan Royals,SuperSport Park,c M Morkel b R A Jadeja,15,22,68.18,,303,285,15.95,106.32
+23,21,10/05/2009,2nd,2,Mumbai Indians,St George's Park,c J-P Duminy b C  Nanda,20,22,90.91,,323,307,16.15,105.21
+24,,12/05/2009,2nd,-,Kolkata Knight Riders,SuperSport Park,did not bat,-,-,-,,323,307,16.15,105.21
+25,22,14/05/2009,2nd,5,Chennai Super Kings,Kingsmead,c J D P Oram b L Balaji,38,35,108.57,,361,342,17.19,105.56
+26,,19/05/2009,2nd,-,Delhi Capitals,Wanderers Stadium,did not bat,-,-,-,,361,342,17.19,105.56
+27,23,21/05/2009,1st,6,Deccan Chargers,SuperSport Park,not out,19*,9,211.11,,380,351,18.10,108.26
+28,24,23/05/2009,2nd,5,Chennai Super Kings,Wanderers Stadium,not out,24*,17,141.18,,404,368,19.24,109.78
+29,25,24/05/2009,2nd,6,Deccan Chargers,Wanderers Stadium,st A C Gilchrist b A Symonds,7,8,87.50,,411,376,18.68,109.31
+30,26,14/03/2010,1st,4,Kolkata Knight Riders,Eden Gardens,c A D Mathews b M Kartik,2,5,40.00,,413,381,17.96,108.40
+31,27,16/03/2010,2nd,4,Punjab Kings,M Chinnaswamy Stadium,not out,16*,12,133.33,,429,393,18.65,109.16
+32,,18/03/2010,2nd,-,Rajasthan Royals,M Chinnaswamy Stadium,did not bat,-,-,-,,429,393,18.65,109.16
+33,28,20/03/2010,2nd,4,Mumbai Indians,Barabati Stadium,run out,17,12,141.67,,446,405,18.58,110.12
+34,29,23/03/2010,1st,5,Chennai Super Kings,M Chinnaswamy Stadium,st P A Patel b M Muralitharan,24,16,150.00,,470,421,18.80,111.64
+35,30,25/03/2010,2nd,6,Delhi Capitals,M Chinnaswamy Stadium,not out,38*,23,165.22,,508,444,20.32,114.41
+36,31,31/03/2010,1st,4,Chennai Super Kings,MA Chidambaram Stadium,c M Vijay b S B Jakati,34,24,141.67,,542,468,20.85,115.81
+37,32,02/04/2010,2nd,4,Punjab Kings,Barabati Stadium,c I K Pathan b Bipul Sharma,42,26,161.54,,584,494,21.63,118.22
+38,33,04/04/2010,2nd,6,Delhi Capitals,Arun Jaitley Stadium,b M F Maharoof,13,11,118.18,,597,505,21.32,118.22
+39,34,08/04/2010,1st,6,Deccan Chargers,M Chinnaswamy Stadium,c A Symonds b R J Harris,58,35,165.71,,655,540,22.59,121.30
+40,,10/04/2010,2nd,-,Kolkata Knight Riders,M Chinnaswamy Stadium,did not bat,-,-,-,,655,540,22.59,121.30
+41,35,12/04/2010,2nd,6,Deccan Chargers,Vidarbha Cricket Association Stadium,c B A  Sumanth b P P Ojha,3,4,75.00,,658,544,21.93,120.96
+42,36,14/04/2010,2nd,5,Rajasthan Royals,Sawai Mansingh Stadium,c S R Watson b S K  Trivedi,14,13,107.69,,672,557,21.68,120.65
+43,37,17/04/2010,2nd,7,Mumbai Indians,M Chinnaswamy Stadium,c †A P Tare b K A Pollard,37,24,154.17,,709,581,22.16,122.03
+44,38,21/04/2010,2nd,6,Mumbai Indians,Dr DY Patil Sports Academy,c †A T Rayudu b K A Pollard,9,7,128.57,,718,588,21.76,122.11
+45,,24/04/2010,2nd,-,Deccan Chargers,Dr DY Patil Sports Academy,did not bat,-,-,-,,718,588,21.76,122.11
+46,39,09/04/2011,2nd,3,Kochi Tuskers Kerala,Nehru Stadium (Kochi),lbw b R Vinay Kumar,23,18,127.78,,741,606,21.79,122.28
+47,40,12/04/2011,1st,3,Mumbai Indians,M Chinnaswamy Stadium,c †D J  Jacobs b K A Pollard,12,19,63.16,,753,625,21.51,120.48
+48,41,14/04/2011,2nd,4,Deccan Chargers,Rajiv Gandhi International Stadium,b M Gony,71,51,139.22,,824,676,22.89,121.89
+49,42,16/04/2011,2nd,4,Chennai Super Kings,MA Chidambaram Stadium,c S  Anirudha b S B Jakati,35,28,125.00,,859,704,23.22,122.02
+50,43,22/04/2011,2nd,3,Kolkata Knight Riders,Eden Gardens,not out,30*,23,130.43,,889,727,24.03,122.28
+51,44,26/04/2011,2nd,3,Delhi Capitals,Arun Jaitley Stadium,b M Morkel,56,38,147.37,,945,765,24.87,123.53
+52,45,29/04/2011,1st,3,Pune Warriors,M Chinnaswamy Stadium,c Harpreet Singh b A C Thomas,67,42,159.52,,1012,807,25.95,125.40
+53,46,06/05/2011,1st,3,Punjab Kings,M Chinnaswamy Stadium,b P P Chawla,27,31,87.10,,1039,838,25.98,123.99
+54,47,08/05/2011,2nd,3,Kochi Tuskers Kerala,M Chinnaswamy Stadium,not out,27*,33,81.82,,1066,871,26.65,122.39
+55  (c),48,11/05/2011,2nd,3,Rajasthan Royals,Sawai Mansingh Stadium,not out,39*,34,114.71,,1105,905,27.63,122.10
+56  (c),49,14/05/2011,2nd,3,Kolkata Knight Riders,M Chinnaswamy Stadium,c †M V Boucher b J H Kallis,15,15,100.00,,1120,920,27.32,121.74
+57  (c),50,17/05/2011,2nd,3,Punjab Kings,Himachal Pradesh Cricket Association Stadium,c K D Karthik b R J Harris,11,11,100.00,,1131,931,26.93,121.48
+58,51,22/05/2011,2nd,3,Chennai Super Kings,M Chinnaswamy Stadium,c R Ashwin b J A Morkel,31,29,106.90,,1162,960,27.02,121.04
+59,52,24/05/2011,1st,3,Chennai Super Kings,Wankhede Stadium,not out,70*,44,159.09,,1232,1004,28.65,122.71
+60,53,27/05/2011,1st,3,Mumbai Indians,MA Chidambaram Stadium,b A N  Ahmed,8,12,66.67,,1240,1016,28.18,122.05
+61,54,28/05/2011,2nd,3,Chennai Super Kings,MA Chidambaram Stadium,lbw b S K Raina,35,32,109.38,,1275,1048,28.33,121.66
+62,55,07/04/2012,1st,3,Delhi Capitals,M Chinnaswamy Stadium,c Y  Nagar b D A J Bracewell,8,8,100.00,,1283,1056,27.89,121.50
+63,56,10/04/2012,2nd,3,Kolkata Knight Riders,M Chinnaswamy Stadium,c M K Tiwary b L Balaji,6,14,42.86,,1289,1070,27.43,120.47
+64,57,12/04/2012,1st,3,Chennai Super Kings,MA Chidambaram Stadium,c F du Plessis b D E Bollinger,57,46,123.91,,1346,1116,28.04,120.61
+65,58,15/04/2012,2nd,3,Rajasthan Royals,M Chinnaswamy Stadium,b S K  Trivedi,22,18,122.22,,1368,1134,27.92,120.63
+66,59,17/04/2012,2nd,4,Pune Warriors,M Chinnaswamy Stadium,c R Sharma b A D Mathews,16,19,84.21,,1384,1153,27.68,120.03
+67,60,20/04/2012,2nd,3,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,c S E Marsh b P Awana,4,4,100.00,,1388,1157,27.22,119.97
+68,61,23/04/2012,1st,1,Rajasthan Royals,Sawai Mansingh Stadium,c B J Hodge b Pankaj Singh,16,16,100.00,,1404,1173,27.00,119.69
+69  (c),,25/04/2012,1st,-,Chennai Super Kings,M Chinnaswamy Stadium,did not bat,-,-,-,,1404,1173,27.00,119.69
+70,62,28/04/2012,2nd,3,Kolkata Knight Riders,Eden Gardens,lbw b J H Kallis,18,19,94.74,,1422,1192,26.83,119.30
+71,63,02/05/2012,1st,3,Punjab Kings,M Chinnaswamy Stadium,b P P Chawla,45,42,107.14,,1467,1234,27.17,118.88
+72  (c),64,06/05/2012,2nd,3,Deccan Chargers,M Chinnaswamy Stadium,c D W Steyn b A Mishra,9,9,100.00,,1476,1243,26.84,118.74
+73  (c),65,09/05/2012,2nd,3,Mumbai Indians,Wankhede Stadium,not out,36*,25,144.00,,1512,1268,27.49,119.24
+74  (c),66,11/05/2012,1st,3,Pune Warriors,Maharashtra Cricket Association Stadium,c S P D Smith b R Sharma,9,12,75.00,,1521,1280,27.16,118.83
+75  (c),67,14/05/2012,1st,3,Mumbai Indians,M Chinnaswamy Stadium,run out,3,1,300.00,,1524,1281,26.74,118.97
+76  (c),68,17/05/2012,1st,3,Delhi Capitals,Arun Jaitley Stadium,not out,73*,53,137.74,,1597,1334,28.02,119.72
+77  (c),69,20/05/2012,2nd,3,Deccan Chargers,Rajiv Gandhi International Stadium,c M Gony b A Ashish Reddy,42,40,105.00,,1639,1374,28.26,119.29
+78  (c),70,04/04/2013,1st,3,Mumbai Indians,M Chinnaswamy Stadium,lbw b J J Bumrah,24,14,171.43,,1663,1388,28.19,119.81
+79  (c),71,07/04/2013,1st,3,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,c & b A Ashish Reddy,46,44,104.55,,1709,1432,28.48,119.34
+80  (c),72,09/04/2013,2nd,3,Sunrisers Hyderabad,M Chinnaswamy Stadium,not out,93*,47,197.87,,1802,1479,30.03,121.84
+81  (c),73,11/04/2013,2nd,3,Kolkata Knight Riders,M Chinnaswamy Stadium,c E J G Morgan b L Balaji,35,27,129.63,,1837,1506,30.11,121.98
+82  (c),74,13/04/2013,1st,3,Chennai Super Kings,MA Chidambaram Stadium,c †M S Dhoni b C H Morris,58,47,123.40,,1895,1553,30.56,122.02
+83  (c),75,16/04/2013,2nd,3,Delhi Capitals,M Chinnaswamy Stadium,c D P M D Jayawardene b U T Yadav,65,50,130.00,,1960,1603,31.11,122.27
+84  (c),76,20/04/2013,2nd,3,Rajasthan Royals,M Chinnaswamy Stadium,b J P Faulkner,1,4,25.00,,1961,1607,30.64,122.03
+85  (c),77,23/04/2013,1st,3,Pune Warriors,M Chinnaswamy Stadium,run out,11,9,122.22,,1972,1616,30.34,122.03
+86  (c),78,27/04/2013,2nd,3,Mumbai Indians,Wankhede Stadium,c †K D Karthik b D S Kulkarni,1,4,25.00,,1973,1620,29.89,121.79
+87  (c),79,29/04/2013,1st,3,Rajasthan Royals,Sawai Mansingh Stadium,c J P Faulkner b S R Watson,32,35,91.43,,2005,1655,29.93,121.15
+88  (c),80,02/05/2013,1st,3,Pune Warriors,Maharashtra Cricket Association Stadium,b A B Dinda,25,18,138.89,,2030,1673,29.85,121.34
+89  (c),81,06/05/2013,1st,3,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,c S E Marsh b P Awana,14,14,100.00,,2044,1687,29.62,121.16
+90  (c),82,10/05/2013,1st,3,Delhi Capitals,Arun Jaitley Stadium,run out,99,58,170.69,,2143,1745,30.61,122.81
+91  (c),83,12/05/2013,1st,3,Kolkata Knight Riders,JSCA International Stadium Complex,b J H Kallis,17,14,121.43,,2160,1759,30.42,122.80
+92  (c),84,14/05/2013,1st,3,Punjab Kings,M Chinnaswamy Stadium,lbw b Azhar Mahmood,57,43,132.56,,2217,1802,30.79,123.03
+93  (c),85,18/05/2013,1st,1,Chennai Super Kings,M Chinnaswamy Stadium,not out,56*,29,193.10,,2273,1831,31.57,124.14
+94  (c),86,17/04/2014,2nd,3,Delhi Capitals,Sharjah Cricket Stadium,not out,49*,38,128.95,,2322,1869,32.25,124.24
+95  (c),87,19/04/2014,2nd,3,Mumbai Indians,Dubai International Cricket Stadium,c Harbhajan Singh b Z Khan,0,2,0.00,,2322,1871,31.81,124.10
+96  (c),88,24/04/2014,2nd,3,Kolkata Knight Riders,Sharjah Cricket Stadium,b S P Narine,31,23,134.78,,2353,1894,31.80,124.23
+97  (c),89,26/04/2014,1st,3,Rajasthan Royals,Sheikh Zayed Stadium,c T G Southee b P V Tambe,21,25,84.00,,2374,1919,31.65,123.71
+98  (c),90,28/04/2014,1st,3,Punjab Kings,Dubai International Cricket Stadium,lbw b Sandeep Sharma,4,2,200.00,,2378,1921,31.29,123.79
+99  (c),91,04/05/2014,2nd,3,Sunrisers Hyderabad,M Chinnaswamy Stadium,c †N V Ojha b B Kumar,0,5,0.00,,2378,1926,30.88,123.47
+100  (c),92,06/05/2014,2nd,3,Mumbai Indians,Wankhede Stadium,c C J Anderson b P S  Suyal,35,28,125.00,,2413,1954,30.94,123.49
+101  (c),93,09/05/2014,2nd,3,Punjab Kings,M Chinnaswamy Stadium,c †W P Saha b Sandeep Sharma,0,1,0.00,,2413,1955,30.54,123.43
+102  (c),94,11/05/2014,1st,1,Rajasthan Royals,M Chinnaswamy Stadium,c R Bhatia b K W Richardson,4,9,44.44,,2417,1964,30.21,123.07
+103  (c),95,13/05/2014,1st,3,Delhi Capitals,M Chinnaswamy Stadium,run out,10,11,90.91,,2427,1975,29.96,122.89
+104  (c),96,18/05/2014,2nd,3,Chennai Super Kings,JSCA International Stadium Complex,st M S Dhoni b R A Jadeja,27,29,93.10,,2454,2004,29.93,122.46
+105  (c),97,20/05/2014,1st,3,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,c D W Steyn b I K Pathan,67,41,163.41,,2521,2045,30.37,123.28
+106  (c),98,22/05/2014,2nd,3,Kolkata Knight Riders,Eden Gardens,c M Morkel b S P Narine,38,31,122.58,,2559,2076,30.46,123.27
+107  (c),99,24/05/2014,1st,4,Chennai Super Kings,M Chinnaswamy Stadium,b A Nehra,73,49,148.98,,2632,2125,30.96,123.86
+108  (c),100,11/04/2015,2nd,2,Kolkata Knight Riders,Eden Gardens,c †R V Uthappa b M Morkel,13,15,86.67,,2645,2140,30.76,123.60
+109  (c),101,13/04/2015,1st,2,Sunrisers Hyderabad,M Chinnaswamy Stadium,b R S Bopara,41,37,110.81,,2686,2177,30.87,123.38
+110  (c),102,19/04/2015,2nd,3,Mumbai Indians,M Chinnaswamy Stadium,c A T Rayudu b M J McClenaghan,18,18,100.00,,2704,2195,30.73,123.19
+111  (c),103,22/04/2015,2nd,3,Chennai Super Kings,M Chinnaswamy Stadium,c D R Smith b A Nehra,51,42,121.43,,2755,2237,30.96,123.16
+112  (c),104,24/04/2015,2nd,2,Rajasthan Royals,Narendra Modi Stadium,not out,62*,46,134.78,,2817,2283,31.65,123.39
+113  (c),105,26/04/2015,2nd,2,Delhi Capitals,Arun Jaitley Stadium,not out,35*,23,152.17,,2852,2306,32.04,123.68
+114  (c),106,29/04/2015,1st,2,Rajasthan Royals,M Chinnaswamy Stadium,c †S V Samson b T G Southee,1,4,25.00,,2853,2310,31.70,123.51
+115  (c),107,02/05/2015,2nd,2,Kolkata Knight Riders,M Chinnaswamy Stadium,c S A Yadav b A D Russell,34,20,170.00,,2887,2330,31.73,123.91
+116  (c),108,04/05/2015,2nd,2,Chennai Super Kings,MA Chidambaram Stadium,run out,48,44,109.09,,2935,2374,31.90,123.63
+117  (c),109,06/05/2015,1st,2,Punjab Kings,M Chinnaswamy Stadium,b Sandeep Sharma,32,30,106.67,,2967,2404,31.90,123.42
+118  (c),110,10/05/2015,1st,2,Mumbai Indians,Wankhede Stadium,not out,82*,50,164.00,,3049,2454,32.78,124.25
+119  (c),111,13/05/2015,2nd,2,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,b Anureet Singh,19,9,211.11,,3068,2463,32.64,124.56
+120  (c),112,15/05/2015,2nd,2,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,not out,44*,19,231.58,,3112,2482,33.11,125.38
+121  (c),113,17/05/2015,2nd,1,Delhi Capitals,M Chinnaswamy Stadium,not out,1*,2,50.00,,3113,2484,33.12,125.32
+122  (c),114,20/05/2015,1st,2,Rajasthan Royals,Maharashtra Cricket Association Stadium,c & b D S Kulkarni,12,18,66.67,,3125,2502,32.89,124.90
+123  (c),115,22/05/2015,1st,2,Chennai Super Kings,JSCA International Stadium Complex,c M M Sharma b A Nehra,12,9,133.33,,3137,2511,32.68,124.93
+124  (c),116,12/04/2016,1st,2,Sunrisers Hyderabad,M Chinnaswamy Stadium,b B Kumar,75,51,147.06,,3212,2562,33.11,125.37
+125  (c),117,17/04/2016,1st,2,Delhi Capitals,M Chinnaswamy Stadium,c S S Iyer b Mohammed Shami,79,48,164.58,,3291,2610,33.58,126.09
+126  (c),118,20/04/2016,1st,1,Mumbai Indians,Barabati Stadium,c T G Southee b K H Pandya,33,30,110.00,,3324,2640,33.58,125.91
+127  (c),119,22/04/2016,1st,1,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,c A M Rahane b N L T C Perera,80,63,126.98,,3404,2703,34.04,125.93
+128  (c),120,24/04/2016,1st,1,Gujarat Lions,Saurashtra Cricket Association Stadium,not out,100*,63,158.73,,3504,2766,35.04,126.68
+129  (c),121,30/04/2016,2nd,1,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,c A Ashish Reddy b Mustafizur Rahman,14,17,82.35,,3518,2783,34.83,126.41
+130  (c),122,02/05/2016,1st,3,Kolkata Knight Riders,M Chinnaswamy Stadium,c A D Russell b M Morkel,52,44,118.18,,3570,2827,35.00,126.28
+131  (c),123,07/05/2016,2nd,1,Rising Pune Supergiant,M Chinnaswamy Stadium,not out,108*,58,186.21,,3678,2885,36.06,127.49
+132  (c),124,09/05/2016,1st,1,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,c M Vijay b K C Cariappa,20,21,95.24,,3698,2906,35.90,127.25
+133  (c),125,11/05/2016,1st,1,Mumbai Indians,M Chinnaswamy Stadium,c Harbhajan Singh b M J McClenaghan,7,7,100.00,,3705,2913,35.63,127.19
+134  (c),126,14/05/2016,1st,2,Gujarat Lions,M Chinnaswamy Stadium,c D J J Bravo b P Kumar,109,55,198.18,,3814,2968,36.32,128.50
+135  (c),127,16/05/2016,2nd,2,Kolkata Knight Riders,Eden Gardens,not out,75*,51,147.06,,3889,3019,37.04,128.82
+136  (c),128,18/05/2016,1st,2,Punjab Kings,M Chinnaswamy Stadium,c D A Miller b Sandeep Sharma,113,50,226.00,,4002,3069,37.75,130.40
+137  (c),129,22/05/2016,2nd,2,Delhi Capitals,Shaheed Veer Narayan Sing International Stadium,not out,54*,45,120.00,,4056,3114,38.26,130.25
+138  (c),130,24/05/2016,2nd,2,Gujarat Lions,M Chinnaswamy Stadium,b D S Kulkarni,0,2,0.00,,4056,3116,37.91,130.17
+139  (c),131,29/05/2016,2nd,2,Sunrisers Hyderabad,M Chinnaswamy Stadium,b B B Sran,54,35,154.29,,4110,3151,38.06,130.43
+140  (c),132,14/04/2017,1st,2,Mumbai Indians,M Chinnaswamy Stadium,c J C Buttler b M J McClenaghan,62,47,131.91,,4172,3198,38.28,130.46
+141  (c),133,16/04/2017,2nd,1,Rising Pune Supergiant,M Chinnaswamy Stadium,c A M Rahane b B A Stokes,28,19,147.37,,4200,3217,38.18,130.56
+142  (c),134,18/04/2017,1st,2,Gujarat Lions,Saurashtra Cricket Association Stadium,c D R Smith b D S Kulkarni,64,50,128.00,,4264,3267,38.41,130.52
+143  (c),135,23/04/2017,2nd,2,Kolkata Knight Riders,Eden Gardens,c M K Pandey b N M Coulter-Nile,0,1,0.00,,4264,3268,38.07,130.48
+144  (c),136,27/04/2017,1st,2,Gujarat Lions,M Chinnaswamy Stadium,c A J Finch b Basil Thampi,10,13,76.92,,4274,3281,37.82,130.27
+145  (c),137,29/04/2017,2nd,2,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,c sub b D T Christian,55,48,114.58,,4329,3329,37.97,130.04
+146  (c),138,01/05/2017,1st,1,Mumbai Indians,Wankhede Stadium,c R G Sharma b M J McClenaghan,20,14,142.86,,4349,3343,37.82,130.09
+147  (c),139,05/05/2017,2nd,3,Punjab Kings,M Chinnaswamy Stadium,b Sandeep Sharma,6,6,100.00,,4355,3349,37.54,130.04
+148  (c),140,07/05/2017,1st,3,Kolkata Knight Riders,M Chinnaswamy Stadium,lbw b U T Yadav,5,9,55.56,,4360,3358,37.26,129.84
+149  (c),141,14/05/2017,1st,3,Delhi Capitals,Arun Jaitley Stadium,c S Nadeem b Z Khan,58,45,128.89,,4418,3403,37.44,129.83
+150  (c),142,08/04/2018,1st,3,Kolkata Knight Riders,Eden Gardens,b N Rana,31,33,93.94,,4449,3436,37.39,129.48
+151  (c),143,13/04/2018,2nd,3,Punjab Kings,M Chinnaswamy Stadium,b Mujeeb Ur Rahman,21,16,131.25,,4470,3452,37.25,129.49
+152  (c),144,15/04/2018,2nd,3,Rajasthan Royals,M Chinnaswamy Stadium,c D J M Short b S Gopal,57,30,190.00,,4527,3482,37.41,130.01
+153  (c),145,17/04/2018,2nd,1,Mumbai Indians,Wankhede Stadium,not out,92*,62,148.39,,4619,3544,38.17,130.33
+154  (c),146,21/04/2018,2nd,3,Delhi Capitals,M Chinnaswamy Stadium,c T A Boult b H V Patel,30,26,115.38,,4649,3570,38.11,130.22
+155  (c),147,25/04/2018,1st,2,Chennai Super Kings,M Chinnaswamy Stadium,c R A Jadeja b S N Thakur,18,15,120.00,,4667,3585,37.94,130.18
+156  (c),148,29/04/2018,1st,3,Kolkata Knight Riders,M Chinnaswamy Stadium,not out,68*,44,154.55,,4735,3629,38.50,130.48
+157  (c),149,01/05/2018,1st,4,Mumbai Indians,M Chinnaswamy Stadium,c K A Pollard b H H Pandya,32,26,123.08,,4767,3655,38.44,130.42
+158  (c),150,05/05/2018,1st,3,Chennai Super Kings,Maharashtra Cricket Association Stadium,b R A Jadeja,8,11,72.73,,4775,3666,38.20,130.25
+159  (c),151,07/05/2018,2nd,3,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,c Y K Pathan b Shakib Al Hasan,39,30,130.00,,4814,3696,38.21,130.25
+160  (c),152,12/05/2018,2nd,3,Delhi Capitals,Arun Jaitley Stadium,c †R R Pant b A Mishra,70,40,175.00,,4884,3736,38.46,130.73
+161  (c),153,14/05/2018,2nd,1,Punjab Kings,Holkar Cricket Stadium,not out,48*,28,171.43,,4932,3764,38.83,131.03
+162  (c),154,17/05/2018,1st,2,Sunrisers Hyderabad,M Chinnaswamy Stadium,b Rashid Khan,12,11,109.09,,4944,3775,38.63,130.97
+163  (c),155,19/05/2018,2nd,1,Rajasthan Royals,Sawai Mansingh Stadium,b K Gowtham,4,9,44.44,,4948,3784,38.36,130.76
+164  (c),156,23/03/2019,1st,1,Chennai Super Kings,MA Chidambaram Stadium,c R A Jadeja b Harbhajan Singh,6,12,50.00,,4954,3796,38.11,130.51
+165  (c),157,28/03/2019,2nd,3,Mumbai Indians,M Chinnaswamy Stadium,c H H Pandya b J J Bumrah,46,32,143.75,,5000,3828,38.17,130.62
+166  (c),158,31/03/2019,2nd,3,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,c D A Warner b Sandeep Sharma,3,10,30.00,,5003,3838,37.90,130.35
+167  (c),159,02/04/2019,1st,1,Rajasthan Royals,Sawai Mansingh Stadium,b S Gopal,23,25,92.00,,5026,3863,37.79,130.11
+168  (c),160,05/04/2019,1st,2,Kolkata Knight Riders,M Chinnaswamy Stadium,c & b Kuldeep Yadav,84,49,171.43,,5110,3912,38.13,130.62
+169  (c),161,07/04/2019,1st,2,Delhi Capitals,M Chinnaswamy Stadium,c S S Iyer b K Rabada,41,33,124.24,,5151,3945,38.16,130.57
+170  (c),162,13/04/2019,2nd,2,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,c M Ashwin b Mohammed Shami,67,53,126.42,,5218,3998,38.37,130.52
+171  (c),163,15/04/2019,1st,2,Mumbai Indians,Wankhede Stadium,c †Q de Kock b J P Behrendorff,8,9,88.89,,5226,4007,38.15,130.42
+172  (c),164,19/04/2019,1st,2,Kolkata Knight Riders,Eden Gardens,c Shubman Gill b H F Gurney,100,58,172.41,,5326,4065,38.59,131.02
+173  (c),165,21/04/2019,1st,2,Chennai Super Kings,M Chinnaswamy Stadium,c †M S Dhoni b D L Chahar,9,8,112.50,,5335,4073,38.38,130.98
+174  (c),166,24/04/2019,1st,2,Punjab Kings,M Chinnaswamy Stadium,c Mandeep Singh b Mohammed Shami,13,8,162.50,,5348,4081,38.20,131.05
+175  (c),167,28/04/2019,2nd,2,Delhi Capitals,Arun Jaitley Stadium,c S E Rutherford b A R Patel,23,17,135.29,,5371,4098,38.09,131.06
+176  (c),168,30/04/2019,1st,1,Rajasthan Royals,M Chinnaswamy Stadium,c L S Livingstone b S Gopal,25,7,357.14,,5396,4105,38.00,131.45
+177  (c),169,04/05/2019,2nd,2,Sunrisers Hyderabad,M Chinnaswamy Stadium,c †W P Saha b K K Ahmed,16,7,228.57,,5412,4112,37.85,131.61
+178  (c),170,21/09/2020,1st,3,Sunrisers Hyderabad,Dubai International Cricket Stadium,c Rashid Khan b T Natarajan,14,13,107.69,,5426,4125,37.68,131.54
+179  (c),171,24/09/2020,2nd,4,Punjab Kings,Dubai International Cricket Stadium,c Ravi Bishnoi b S S Cottrell,1,5,20.00,,5427,4130,37.43,131.40
+180  (c),172,28/09/2020,1st,3,Mumbai Indians,Dubai International Cricket Stadium,c R G Sharma b R D Chahar,3,11,27.27,,5430,4141,37.19,131.13
+181  (c),173,03/10/2020,2nd,3,Rajasthan Royals,Sheikh Zayed Stadium,not out,72*,53,135.85,,5502,4194,37.68,131.19
+182  (c),174,05/10/2020,2nd,3,Delhi Capitals,Dubai International Cricket Stadium,c †R R Pant b K Rabada,43,39,110.26,,5545,4233,37.72,130.99
+183  (c),175,10/10/2020,1st,3,Chennai Super Kings,Dubai International Cricket Stadium,not out,90*,52,173.08,,5635,4285,38.33,131.51
+184  (c),176,12/10/2020,1st,3,Kolkata Knight Riders,Sharjah Cricket Stadium,not out,33*,28,117.86,,5668,4313,38.56,131.42
+185  (c),177,15/10/2020,1st,3,Punjab Kings,Sharjah Cricket Stadium,c †K L Rahul b Mohammed Shami,48,39,123.08,,5716,4352,38.62,131.34
+186  (c),178,17/10/2020,2nd,3,Rajasthan Royals,Dubai International Cricket Stadium,c R Tewatia b Kartik Tyagi,43,32,134.38,,5759,4384,38.65,131.36
+187  (c),179,21/10/2020,2nd,4,Kolkata Knight Riders,Sheikh Zayed Stadium,not out,18*,17,105.88,,5777,4401,38.77,131.27
+188  (c),180,25/10/2020,1st,3,Chennai Super Kings,Dubai International Cricket Stadium,c F du Plessis b S M Curran,50,43,116.28,,5827,4444,38.85,131.12
+189  (c),181,28/10/2020,1st,3,Mumbai Indians,Sheikh Zayed Stadium,c S S Tiwary b J J Bumrah,9,14,64.29,,5836,4458,38.65,130.91
+190  (c),182,31/10/2020,1st,3,Sunrisers Hyderabad,Sharjah Cricket Stadium,c K S Williamson b Sandeep Sharma,7,7,100.00,,5843,4465,38.44,130.86
+191  (c),183,02/11/2020,1st,3,Delhi Capitals,Sheikh Zayed Stadium,c M P Stoinis b R Ashwin,29,24,120.83,,5872,4489,38.38,130.81
+192  (c),184,06/11/2020,1st,1,Sunrisers Hyderabad,Sheikh Zayed Stadium,c †S P Goswami b J O Holder,6,7,85.71,,5878,4496,38.17,130.74
+193  (c),185,09/04/2021,2nd,2,Mumbai Indians,MA Chidambaram Stadium,lbw b J J Bumrah,33,29,113.79,,5911,4525,38.14,130.63
+194  (c),186,14/04/2021,1st,1,Sunrisers Hyderabad,MA Chidambaram Stadium,c V Shankar b J O Holder,33,29,113.79,,5944,4554,38.10,130.52
+195  (c),187,18/04/2021,1st,1,Kolkata Knight Riders,MA Chidambaram Stadium,c R A Tripathi b C V Varun,5,6,83.33,,5949,4560,37.89,130.46
+196  (c),188,22/04/2021,2nd,1,Rajasthan Royals,Wankhede Stadium,not out,72*,47,153.19,,6021,4607,38.35,130.69
+197  (c),189,25/04/2021,2nd,1,Chennai Super Kings,Wankhede Stadium,c †M S Dhoni b S M Curran,8,7,114.29,,6029,4614,38.16,130.67
+198  (c),190,27/04/2021,1st,1,Delhi Capitals,Narendra Modi Stadium,b Avesh Khan,12,11,109.09,,6041,4625,37.99,130.62
+199  (c),191,30/04/2021,2nd,1,Punjab Kings,Narendra Modi Stadium,b Harpreet Brar,35,34,102.94,,6076,4659,37.98,130.41
+200  (c),192,20/09/2021,1st,1,Kolkata Knight Riders,Sheikh Zayed Stadium,lbw b M Prasidh Krishna,5,4,125.00,,6081,4663,37.77,130.41
+201  (c),193,24/09/2021,1st,1,Chennai Super Kings,Sharjah Cricket Stadium,c R A Jadeja b D J J Bravo,53,41,129.27,,6134,4704,37.86,130.40
+202  (c),194,26/09/2021,1st,1,Mumbai Indians,Dubai International Cricket Stadium,c sub b A F Milne,51,42,121.43,,6185,4746,37.94,130.32
+203  (c),195,29/09/2021,2nd,1,Rajasthan Royals,Dubai International Cricket Stadium,run out,25,20,125.00,,6210,4766,37.87,130.30
+204  (c),196,03/10/2021,1st,1,Punjab Kings,Sharjah Cricket Stadium,b M C Henriques,25,24,104.17,,6235,4790,37.79,130.17
+205  (c),197,06/10/2021,2nd,1,Sunrisers Hyderabad,Sheikh Zayed Stadium,lbw b B Kumar,5,4,125.00,,6240,4794,37.59,130.16
+206  (c),198,08/10/2021,2nd,1,Delhi Capitals,Dubai International Cricket Stadium,c K Rabada b A Nortje,4,8,50.00,,6244,4802,37.39,130.03
+207  (c),199,11/10/2021,1st,2,Kolkata Knight Riders,Sharjah Cricket Stadium,b S P Narine,39,33,118.18,,6283,4835,37.40,129.95
+208,200,27/03/2022,1st,3,Punjab Kings,Dr DY Patil Sports Academy,not out,41*,29,141.38,,6324,4864,37.64,130.02
+209,201,30/03/2022,2nd,3,Kolkata Knight Riders,Dr DY Patil Sports Academy,c †S P Jackson b U T Yadav,12,7,171.43,,6336,4871,37.49,130.08
+210,202,05/04/2022,2nd,3,Rajasthan Royals,Wankhede Stadium,run out,5,6,83.33,,6341,4877,37.30,130.02
+211,203,09/04/2022,2nd,3,Mumbai Indians,Maharashtra Cricket Association Stadium,lbw b D Brevis,48,36,133.33,,6389,4913,37.36,130.04
+212,204,12/04/2022,2nd,3,Chennai Super Kings,Dr DY Patil Sports Academy,c S Dube b Mukesh Choudhary,1,3,33.33,,6390,4916,37.15,129.98
+213,205,16/04/2022,1st,3,Delhi Capitals,Wankhede Stadium,run out,12,14,85.71,,6402,4930,37.01,129.86
+214,206,19/04/2022,1st,3,Lucknow Super Giants,Dr DY Patil Sports Academy,c D J Hooda b P V D Chameera,0,1,0.00,,6402,4931,36.79,129.83
+215,207,23/04/2022,1st,3,Sunrisers Hyderabad,Brabourne Stadium,c A K Markram b M Jansen,0,1,0.00,,6402,4932,36.58,129.81
+216,208,26/04/2022,2nd,1,Rajasthan Royals,Maharashtra Cricket Association Stadium,c R Parag b M Prasidh Krishna,9,10,90.00,,6411,4942,36.43,129.72
+217,209,30/04/2022,1st,1,Gujarat Titans,Brabourne Stadium,b Mohammed Shami,58,53,109.43,,6469,4995,36.55,129.51
+218,210,04/05/2022,1st,1,Chennai Super Kings,Maharashtra Cricket Association Stadium,b Moeen Ali,30,33,90.91,,6499,5028,36.51,129.26
+219,211,08/05/2022,1st,1,Sunrisers Hyderabad,Wankhede Stadium,c K S Williamson b J Suchith,0,1,0.00,,6499,5029,36.31,129.23
+220,212,13/05/2022,2nd,1,Punjab Kings,Brabourne Stadium,c R D Chahar b K Rabada,20,14,142.86,,6519,5043,36.22,129.27
+221,213,19/05/2022,2nd,1,Gujarat Titans,Wankhede Stadium,st M S Wade b Rashid Khan,73,54,135.19,,6592,5097,36.42,129.33
+222,214,25/05/2022,1st,1,Lucknow Super Giants,Eden Gardens,c Mohsin Khan b Avesh Khan,25,24,104.17,,6617,5121,36.36,129.21
+223,215,27/05/2022,1st,1,Rajasthan Royals,Narendra Modi Stadium,c †S V Samson b M Prasidh Krishna,7,8,87.50,,6624,5129,36.20,129.15
+224,216,02/04/2023,2nd,1,Mumbai Indians,M Chinnaswamy Stadium,not out,82*,49,167.35,,6706,5178,36.64,129.51
+225,217,06/04/2023,2nd,1,Kolkata Knight Riders,Eden Gardens,b S P Narine,21,18,116.67,,6727,5196,36.56,129.46
+226,218,10/04/2023,1st,1,Lucknow Super Giants,M Chinnaswamy Stadium,c M P Stoinis b A Mishra,61,44,138.64,,6788,5240,36.69,129.54
+227,219,15/04/2023,1st,1,Delhi Capitals,M Chinnaswamy Stadium,c Y V Dhull b Lalit Yadav,50,34,147.06,,6838,5274,36.76,129.65
+228,220,17/04/2023,2nd,1,Chennai Super Kings,M Chinnaswamy Stadium,b Akash Singh,6,4,150.00,,6844,5278,36.60,129.67
+229  (c),221,20/04/2023,1st,1,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,c †J M Sharma b Harpreet Brar,59,47,125.53,,6903,5325,36.72,129.63
+230  (c),222,23/04/2023,1st,1,Rajasthan Royals,M Chinnaswamy Stadium,lbw b T A Boult,0,1,0.00,,6903,5326,36.52,129.61
+231  (c),223,26/04/2023,2nd,1,Kolkata Knight Riders,M Chinnaswamy Stadium,c V R Iyer b A D Russell,54,37,145.95,,6957,5363,36.62,129.72
+232,224,01/05/2023,1st,1,Lucknow Super Giants,BRSABV Ekana Cricket Stadium,st N Pooran b Ravi Bishnoi,31,30,103.33,,6988,5393,36.59,129.58
+233,225,06/05/2023,1st,1,Delhi Capitals,Arun Jaitley Stadium,c K K Ahmed b M Kumar,55,46,119.57,,7043,5439,36.68,129.49
+234,226,09/05/2023,1st,1,Mumbai Indians,Wankhede Stadium,c †Ishan Kishan b J P Behrendorff,1,4,25.00,,7044,5443,36.50,129.41
+235,227,14/05/2023,1st,1,Rajasthan Royals,Sawai Mansingh Stadium,c Y B K Jaiswal b K M Asif,18,19,94.74,,7062,5462,36.40,129.29
+236,228,18/05/2023,2nd,1,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,c G D Phillips b B Kumar,100,63,158.73,,7162,5525,36.73,129.63
+237  (c),229,21/05/2023,1st,1,Gujarat Titans,M Chinnaswamy Stadium,not out,101*,61,165.57,,7263,5586,37.25,130.02
+238,230,22/03/2024,1st,1,Chennai Super Kings,MA Chidambaram Stadium,c R Ravindra b Mustafizur Rahman,21,20,105.00,,7284,5606,37.16,129.93
+239,231,25/03/2024,2nd,1,Punjab Kings,M Chinnaswamy Stadium,c Harpreet Brar b H V Patel,77,49,157.14,,7361,5655,37.37,130.17
+240,232,29/03/2024,1st,1,Kolkata Knight Riders,M Chinnaswamy Stadium,not out,83*,59,140.68,,7444,5714,37.79,130.28
+241,233,02/04/2024,2nd,1,Lucknow Super Giants,M Chinnaswamy Stadium,c D Padikkal b M Siddharth,22,16,137.50,,7466,5730,37.71,130.30
+242,234,06/04/2024,1st,1,Rajasthan Royals,Sawai Mansingh Stadium,not out,113*,72,156.94,,7579,5802,38.28,130.63
+243,235,11/04/2024,1st,1,Mumbai Indians,Wankhede Stadium,c †Ishan Kishan b J J Bumrah,3,9,33.33,,7582,5811,38.10,130.48
+244,236,15/04/2024,2nd,1,Sunrisers Hyderabad,M Chinnaswamy Stadium,b M Markande,42,20,210.00,,7624,5831,38.12,130.75
+245,237,21/04/2024,2nd,1,Kolkata Knight Riders,Eden Gardens,c & b H P Rana,18,7,257.14,,7642,5838,38.02,130.90
+246,238,25/04/2024,1st,1,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,c Abdul Samad b J D Unadkat,51,43,118.60,,7693,5881,38.08,130.81
+247,239,28/04/2024,2nd,1,Gujarat Titans,Narendra Modi Stadium,not out,70*,44,159.09,,7763,5925,38.43,131.02
+248,240,04/05/2024,2nd,1,Gujarat Titans,M Chinnaswamy Stadium,c †W P Saha b Noor Ahmad,42,27,155.56,,7805,5952,38.45,131.13
+249,241,09/05/2024,1st,1,Punjab Kings,Himachal Pradesh Cricket Association Stadium,c R R Rossouw b Arshdeep Singh,92,47,195.74,,7897,5999,38.71,131.64
+250,242,12/05/2024,1st,1,Delhi Capitals,M Chinnaswamy Stadium,c †A Porel b I Sharma,27,13,207.69,,7924,6012,38.65,131.80
+251,243,18/05/2024,1st,1,Chennai Super Kings,M Chinnaswamy Stadium,c D J Mitchell b M J Santner,47,29,162.07,,7971,6041,38.69,131.95
+252,244,22/05/2024,1st,1,Rajasthan Royals,Narendra Modi Stadium,c sub b Y S Chahal,33,24,137.50,,8004,6065,38.67,131.97
+253,245,22/03/2025,2nd,2,Kolkata Knight Riders,Eden Gardens,not out,59*,36,163.89,,8063,6101,38.95,132.16
+254,246,28/03/2025,1st,2,Chennai Super Kings,MA Chidambaram Stadium,c R Ravindra b Noor Ahmad,31,30,103.33,,8094,6131,38.91,132.02
+255,247,02/04/2025,1st,2,Gujarat Titans,M Chinnaswamy Stadium,c M Prasidh Krishna b Arshad Khan,7,6,116.67,,8101,6137,38.76,132.00
+256,248,07/04/2025,1st,2,Mumbai Indians,Wankhede Stadium,c Naman Dhir b H H Pandya,67,42,159.52,,8168,6179,38.90,132.19
+257,249,10/04/2025,1st,2,Delhi Capitals,M Chinnaswamy Stadium,c M A Starc b V Nigam,22,14,157.14,,8190,6193,38.82,132.25
+258,250,13/04/2025,2nd,2,Rajasthan Royals,Sawai Mansingh Stadium,not out,62*,45,137.78,,8252,6238,39.11,132.29
+259,251,18/04/2025,1st,2,Punjab Kings,M Chinnaswamy Stadium,c M Jansen b Arshdeep Singh,1,3,33.33,,8253,6241,38.93,132.24
+260,252,20/04/2025,2nd,2,Punjab Kings,Maharaja Yadavindra Singh International Cricket St,not out,73*,54,135.19,,8326,6295,39.27,132.26
+261,253,24/04/2025,1st,2,Rajasthan Royals,M Chinnaswamy Stadium,c N Rana b J C Archer,70,42,166.67,,8396,6337,39.42,132.49
+262,254,27/04/2025,2nd,2,Delhi Capitals,Arun Jaitley Stadium,c M A Starc b P V D Chameera,51,47,108.51,,8447,6384,39.47,132.32
+263,255,03/05/2025,1st,2,Chennai Super Kings,M Chinnaswamy Stadium,c K K Ahmed b S M Curran,62,33,187.88,,8509,6417,39.58,132.60
+264,256,23/05/2025,2nd,2,Sunrisers Hyderabad,BRSABV Ekana Cricket Stadium,c Abhishek Sharma b H S Dubey,43,25,172.00,,8552,6442,39.59,132.75
+265,257,27/05/2025,2nd,2,Lucknow Super Giants,BRSABV Ekana Cricket Stadium,c A Badoni b Avesh Khan,54,30,180.00,,8606,6472,39.66,132.97
+266,258,29/05/2025,2nd,2,Punjab Kings,Maharaja Yadavindra Singh International Cricket St,c †J P Inglis b K A Jamieson,12,12,100.00,,8618,6484,39.53,132.91

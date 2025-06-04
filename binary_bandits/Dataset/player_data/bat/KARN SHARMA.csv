@@ -1,0 +1,91 @@
+Match,Innings,Date,M/Inns,Posn,Versus,Ground,How Dismissed,Runs,B/F,S/R,,Runs,B/F,Avg,S/R
+1,1,22/04/2009,2nd,8,Deccan Chargers,Newlands,c †A C Gilchrist b S B Styris,1,3,33.33,,1,3,1.00,33.33
+2,2,14/04/2013,2nd,7,Kolkata Knight Riders,Eden Gardens,not out,5*,9,55.56,,6,12,6.00,50.00
+3,3,17/04/2013,1st,6,Pune Warriors,Maharashtra Cricket Association Stadium,lbw b R Sharma,7,13,53.85,,13,25,6.50,52.00
+4,,19/04/2013,2nd,-,Punjab Kings,Rajiv Gandhi International Stadium,did not bat,-,-,-,,13,25,6.50,52.00
+5,,25/04/2013,1st,-,Chennai Super Kings,MA Chidambaram Stadium,did not bat,-,-,-,,13,25,6.50,52.00
+6,4,27/04/2013,1st,5,Rajasthan Royals,Sawai Mansingh Stadium,c B J Hodge b J P Faulkner,6,8,75.00,,19,33,6.33,57.58
+7,,01/05/2013,2nd,-,Mumbai Indians,Rajiv Gandhi International Stadium,did not bat,-,-,-,,19,33,6.33,57.58
+8,,04/05/2013,2nd,-,Delhi Capitals,Rajiv Gandhi International Stadium,did not bat,-,-,-,,19,33,6.33,57.58
+9,5,08/05/2013,2nd,7,Chennai Super Kings,Rajiv Gandhi International Stadium,not out,39*,33,118.18,,58,66,19.33,87.88
+10,6,11/05/2013,1st,7,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,c †A C Gilchrist b P Awana,22,18,122.22,,80,84,20.00,95.24
+11,,13/05/2013,1st,-,Mumbai Indians,Wankhede Stadium,did not bat,-,-,-,,80,84,20.00,95.24
+12,7,17/05/2013,1st,9,Rajasthan Royals,Rajiv Gandhi International Stadium,run out,4,3,133.33,,84,87,16.80,96.55
+13,,19/05/2013,2nd,-,Kolkata Knight Riders,Rajiv Gandhi International Stadium,did not bat,-,-,-,,84,87,16.80,96.55
+14,8,22/05/2013,1st,8,Rajasthan Royals,Arun Jaitley Stadium,not out,2*,2,100.00,,86,89,17.20,96.63
+15,9,18/04/2014,1st,7,Rajasthan Royals,Sheikh Zayed Stadium,c B J Hodge b K W Richardson,4,5,80.00,,90,94,15.00,95.74
+16,10,22/04/2014,2nd,8,Punjab Kings,Sharjah Cricket Stadium,c D A Miller b M G Johnson,10,8,125.00,,100,102,14.29,98.04
+17,,25/04/2014,1st,-,Delhi Capitals,Dubai International Cricket Stadium,did not bat,-,-,-,,100,102,14.29,98.04
+18,11,27/04/2014,1st,7,Chennai Super Kings,Sharjah Cricket Stadium,not out,17*,7,242.86,,117,109,16.71,107.34
+19,,30/04/2014,1st,-,Mumbai Indians,Dubai International Cricket Stadium,did not bat,-,-,-,,117,109,16.71,107.34
+20,12,04/05/2014,1st,8,Royal Challengers Bengaluru,M Chinnaswamy Stadium,not out,1*,1,100.00,,118,110,16.86,107.27
+21,13,08/05/2014,1st,8,Rajasthan Royals,Narendra Modi Stadium,c †S V Samson b S R Watson,0,1,0.00,,118,111,14.75,106.31
+22,,10/05/2014,2nd,-,Delhi Capitals,Arun Jaitley Stadium,did not bat,-,-,-,,118,111,14.75,106.31
+23,,12/05/2014,1st,-,Mumbai Indians,Rajiv Gandhi International Stadium,did not bat,-,-,-,,118,111,14.75,106.31
+24,14,14/05/2014,1st,7,Punjab Kings,Rajiv Gandhi International Stadium,not out,1*,1,100.00,,119,112,14.88,106.25
+25,15,18/05/2014,1st,8,Kolkata Knight Riders,Rajiv Gandhi International Stadium,run out,4,4,100.00,,123,116,13.67,106.03
+26,,20/05/2014,2nd,-,Royal Challengers Bengaluru,Rajiv Gandhi International Stadium,did not bat,-,-,-,,123,116,13.67,106.03
+27,,22/05/2014,2nd,-,Chennai Super Kings,JSCA International Stadium Complex,did not bat,-,-,-,,123,116,13.67,106.03
+28,16,24/05/2014,1st,8,Kolkata Knight Riders,Eden Gardens,not out,5*,2,250.00,,128,118,14.22,108.47
+29,17,11/04/2015,2nd,7,Chennai Super Kings,MA Chidambaram Stadium,c S K Raina b D J J Bravo,4,6,66.67,,132,124,13.20,106.45
+30,,13/04/2015,2nd,-,Royal Challengers Bengaluru,M Chinnaswamy Stadium,did not bat,-,-,-,,132,124,13.20,106.45
+31,,16/04/2015,1st,-,Rajasthan Royals,Dr YS Rajasekhara Reddy Cricket Stadium,did not bat,-,-,-,,132,124,13.20,106.45
+32,18,18/04/2015,2nd,8,Delhi Capitals,Dr YS Rajasekhara Reddy Cricket Stadium,c A D Mathews b N M Coulter-Nile,19,10,190.00,,151,134,13.73,112.69
+33,,22/04/2015,1st,-,Kolkata Knight Riders,Dr YS Rajasekhara Reddy Cricket Stadium,did not bat,-,-,-,,151,134,13.73,112.69
+34,19,25/04/2015,2nd,7,Mumbai Indians,Wankhede Stadium,not out,2*,5,40.00,,153,139,13.91,110.07
+35,20,27/04/2015,1st,8,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,not out,1*,1,100.00,,154,140,14.00,110.00
+36,21,02/05/2015,1st,8,Chennai Super Kings,Rajiv Gandhi International Stadium,c R A Jadeja b D J J Bravo,4,2,200.00,,158,142,13.17,111.27
+37,22,04/05/2015,2nd,8,Kolkata Knight Riders,Eden Gardens,c S A Yadav b J Botha,32,20,160.00,,190,162,14.62,117.28
+38,,07/05/2015,1st,-,Rajasthan Royals,Brabourne Stadium,did not bat,-,-,-,,190,162,14.62,117.28
+39,23,09/05/2015,1st,5,Delhi Capitals,Shaheed Veer Narayan Sing International Stadium,c J Yadav b N M Coulter-Nile,16,13,123.08,,206,175,14.71,117.71
+40,24,11/05/2015,1st,7,Punjab Kings,Rajiv Gandhi International Stadium,not out,11*,7,157.14,,217,182,15.50,119.23
+41,,15/05/2015,1st,-,Royal Challengers Bengaluru,Rajiv Gandhi International Stadium,did not bat,-,-,-,,217,182,15.50,119.23
+42,25,17/05/2015,1st,7,Mumbai Indians,Rajiv Gandhi International Stadium,c J Suchith b S L Malinga,15,21,71.43,,232,203,15.47,114.29
+43,26,12/04/2016,2nd,8,Royal Challengers Bengaluru,M Chinnaswamy Stadium,not out,26*,17,152.94,,258,220,17.20,117.27
+44,27,16/04/2016,1st,8,Kolkata Knight Riders,Rajiv Gandhi International Stadium,not out,2*,2,100.00,,260,222,17.33,117.12
+45,,15/05/2016,2nd,-,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,did not bat,-,-,-,,260,222,17.33,117.12
+46,,20/05/2016,1st,-,Delhi Capitals,Shaheed Veer Narayan Sing International Stadium,did not bat,-,-,-,,260,222,17.33,117.12
+47,28,22/05/2016,2nd,8,Kolkata Knight Riders,Eden Gardens,not out,8*,11,72.73,,268,233,17.87,115.02
+48,29,24/04/2017,2nd,5,Rising Pune Supergiant,Wankhede Stadium,b B A Stokes,11,10,110.00,,279,243,17.44,114.81
+49,30,01/05/2017,2nd,7,Royal Challengers Bengaluru,Wankhede Stadium,c A F Milne b S R Watson,9,8,112.50,,288,251,16.94,114.74
+50,,06/05/2017,1st,-,Delhi Capitals,Barabati Stadium,did not bat,-,-,-,,288,251,16.94,114.74
+51,31,08/05/2017,1st,7,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,c †N V Ojha b B Kumar,5,5,100.00,,293,256,16.28,114.45
+52,32,11/05/2017,2nd,7,Punjab Kings,Wankhede Stadium,b M M Sharma,19,6,316.67,,312,262,16.42,119.08
+53,,13/05/2017,1st,-,Kolkata Knight Riders,Eden Gardens,did not bat,-,-,-,,312,262,16.42,119.08
+54,33,16/05/2017,2nd,9,Rising Pune Supergiant,Wankhede Stadium,c †M S Dhoni b J D Unadkat,4,7,57.14,,316,269,15.80,117.47
+55,,19/05/2017,2nd,-,Kolkata Knight Riders,M Chinnaswamy Stadium,did not bat,-,-,-,,316,269,15.80,117.47
+56,34,21/05/2017,1st,8,Rising Pune Supergiant,Rajiv Gandhi International Stadium,run out,1,5,20.00,,317,274,15.10,115.69
+57,,20/04/2018,1st,-,Rajasthan Royals,Maharashtra Cricket Association Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+58,,22/04/2018,1st,-,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+59,,30/04/2018,1st,-,Delhi Capitals,Maharashtra Cricket Association Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+60,35,03/05/2018,1st,7,Kolkata Knight Riders,Eden Gardens,not out,0*,0,-,,317,274,15.10,115.69
+61,,11/05/2018,1st,-,Rajasthan Royals,Sawai Mansingh Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+62,,27/05/2018,2nd,-,Sunrisers Hyderabad,Wankhede Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+63,,17/04/2019,1st,-,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+64,,07/10/2020,2nd,-,Kolkata Knight Riders,Sheikh Zayed Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+65,,10/10/2020,2nd,-,Royal Challengers Bengaluru,Dubai International Cricket Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+66,,13/10/2020,1st,-,Sunrisers Hyderabad,Dubai International Cricket Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+67,,17/10/2020,1st,-,Delhi Capitals,Sharjah Cricket Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+68,,29/10/2020,2nd,-,Kolkata Knight Riders,Dubai International Cricket Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+69,,02/04/2023,2nd,-,Mumbai Indians,M Chinnaswamy Stadium,did not bat,-,-,-,,317,274,15.10,115.69
+70,36,06/04/2023,2nd,10,Kolkata Knight Riders,Eden Gardens,c N Rana b S Sharma,1,3,33.33,,318,277,14.45,114.80
+71,,10/04/2023,1st,-,Lucknow Super Giants,M Chinnaswamy Stadium,did not bat,-,-,-,,318,277,14.45,114.80
+72,37,01/05/2023,1st,9,Lucknow Super Giants,BRSABV Ekana Cricket Stadium,c K Gowtham b Naveen-ul-Haq,2,2,100.00,,320,279,13.91,114.70
+73,,06/05/2023,1st,-,Delhi Capitals,Arun Jaitley Stadium,did not bat,-,-,-,,320,279,13.91,114.70
+74,,14/05/2023,1st,-,Rajasthan Royals,Sawai Mansingh Stadium,did not bat,-,-,-,,320,279,13.91,114.70
+75,,18/05/2023,2nd,-,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,did not bat,-,-,-,,320,279,13.91,114.70
+76,,22/03/2024,1st,-,Chennai Super Kings,MA Chidambaram Stadium,did not bat,-,-,-,,320,279,13.91,114.70
+77,38,21/04/2024,2nd,9,Kolkata Knight Riders,Eden Gardens,c & b M A Starc,20,7,285.71,,340,286,14.17,118.88
+78,,25/04/2024,1st,-,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,did not bat,-,-,-,,340,286,14.17,118.88
+79,,28/04/2024,2nd,-,Gujarat Titans,Narendra Modi Stadium,did not bat,-,-,-,,340,286,14.17,118.88
+80,,04/05/2024,2nd,-,Gujarat Titans,M Chinnaswamy Stadium,did not bat,-,-,-,,340,286,14.17,118.88
+81,,09/05/2024,1st,-,Punjab Kings,Himachal Pradesh Cricket Association Stadium,did not bat,-,-,-,,340,286,14.17,118.88
+82,39,12/05/2024,1st,9,Delhi Capitals,M Chinnaswamy Stadium,run out,6,4,150.00,,346,290,13.84,119.31
+83,,18/05/2024,1st,-,Chennai Super Kings,M Chinnaswamy Stadium,did not bat,-,-,-,,346,290,13.84,119.31
+84,40,22/05/2024,1st,9,Rajasthan Royals,Narendra Modi Stadium,c R Powell b Sandeep Sharma,5,4,125.00,,351,294,13.50,119.39
+85,,13/04/2025,1st,-,Delhi Capitals,Arun Jaitley Stadium,did not bat,-,-,-,,351,294,13.50,119.39
+86,,17/04/2025,2nd,-,Sunrisers Hyderabad,Wankhede Stadium,did not bat,-,-,-,,351,294,13.50,119.39
+87,,27/04/2025,1st,-,Lucknow Super Giants,Wankhede Stadium,did not bat,-,-,-,,351,294,13.50,119.39
+88,,01/05/2025,1st,-,Rajasthan Royals,Sawai Mansingh Stadium,did not bat,-,-,-,,351,294,13.50,119.39
+89,41,06/05/2025,1st,10,Gujarat Titans,Wankhede Stadium,not out,1*,1,100.00,,352,295,13.54,119.32
+90,,21/05/2025,1st,-,Delhi Capitals,Wankhede Stadium,did not bat,-,-,-,,352,295,13.54,119.32

@@ -1,0 +1,49 @@
+Match,Innings,Date,M/Inns,Posn,Versus,Ground,How Dismissed,Runs,B/F,S/R,,Runs,B/F,Avg,S/R
+1,1,22/04/2018,2nd,7,Mumbai Indians,Sawai Mansingh Stadium,c & b H H Pandya,8,9,88.89,,8,9,8.00,88.89
+2,2,29/04/2018,2nd,8,Sunrisers Hyderabad,Sawai Mansingh Stadium,not out,1*,1,100.00,,9,10,9.00,90.00
+3,3,02/05/2018,2nd,7,Delhi Capitals,Arun Jaitley Stadium,not out,0*,0,-,,9,10,9.00,90.00
+4,4,06/05/2018,1st,7,Punjab Kings,Holkar Cricket Stadium,b Mujeeb Ur Rahman,0,1,0.00,,9,11,4.50,81.82
+5,5,08/05/2018,1st,8,Punjab Kings,Sawai Mansingh Stadium,c M K Tiwary b A J Tye,0,1,0.00,,9,12,3.00,75.00
+6,6,11/05/2018,2nd,8,Chennai Super Kings,Sawai Mansingh Stadium,not out,0*,0,-,,9,12,3.00,75.00
+7,,13/05/2018,2nd,-,Mumbai Indians,Wankhede Stadium,did not bat,-,-,-,,9,12,3.00,75.00
+8,7,15/05/2018,1st,10,Kolkata Knight Riders,Eden Gardens,c Shubman Gill b A D Russell,6,5,120.00,,15,17,3.75,88.24
+9,8,19/05/2018,1st,2,Royal Challengers Bengaluru,Sawai Mansingh Stadium,c †P A Patel b U T Yadav,0,4,0.00,,15,21,3.00,71.43
+10,,23/05/2018,2nd,-,Kolkata Knight Riders,Eden Gardens,did not bat,-,-,-,,15,21,3.00,71.43
+11,9,25/03/2019,2nd,8,Punjab Kings,Sawai Mansingh Stadium,run out,2,2,100.00,,17,23,2.83,73.91
+12,,29/03/2019,1st,-,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,did not bat,-,-,-,,17,23,2.83,73.91
+13,10,31/03/2019,2nd,8,Chennai Super Kings,MA Chidambaram Stadium,not out,24*,11,218.18,,41,34,6.83,120.59
+14,,02/04/2019,2nd,-,Royal Challengers Bengaluru,Sawai Mansingh Stadium,did not bat,-,-,-,,41,34,6.83,120.59
+15,,07/04/2019,1st,-,Kolkata Knight Riders,Sawai Mansingh Stadium,did not bat,-,-,-,,41,34,6.83,120.59
+16,11,11/04/2019,1st,8,Chennai Super Kings,Sawai Mansingh Stadium,not out,13*,12,108.33,,54,46,9.00,117.39
+17,,13/04/2019,2nd,-,Mumbai Indians,Wankhede Stadium,did not bat,-,-,-,,54,46,9.00,117.39
+18,12,16/04/2019,2nd,6,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,c K L Rahul b Mohammed Shami,1,3,33.33,,55,49,7.86,112.24
+19,,20/04/2019,2nd,-,Mumbai Indians,Sawai Mansingh Stadium,did not bat,-,-,-,,55,49,7.86,112.24
+20,,22/04/2019,1st,-,Delhi Capitals,Sawai Mansingh Stadium,did not bat,-,-,-,,55,49,7.86,112.24
+21,13,25/04/2019,2nd,8,Kolkata Knight Riders,Eden Gardens,not out,27*,12,225.00,,82,61,11.71,134.43
+22,14,22/09/2020,1st,9,Chennai Super Kings,Sharjah Cricket Stadium,not out,27*,8,337.50,,109,69,15.57,157.97
+23,15,27/09/2020,2nd,6,Punjab Kings,Sharjah Cricket Stadium,not out,13*,3,433.33,,122,72,17.43,169.44
+24,16,30/09/2020,2nd,9,Kolkata Knight Riders,Dubai International Cricket Stadium,c K L Nagarkoti b C V Varun,6,4,150.00,,128,76,16.00,168.42
+25,17,03/10/2020,1st,8,Royal Challengers Bengaluru,Sheikh Zayed Stadium,not out,16*,10,160.00,,144,86,18.00,167.44
+26,18,06/10/2020,2nd,8,Mumbai Indians,Sheikh Zayed Stadium,c K A Pollard b J J Bumrah,24,11,218.18,,168,97,18.67,173.20
+27,19,09/10/2020,2nd,8,Delhi Capitals,Sharjah Cricket Stadium,c S S Iyer b K Rabada,2,4,50.00,,170,101,17.00,168.32
+28,,11/10/2020,2nd,-,Sunrisers Hyderabad,Dubai International Cricket Stadium,did not bat,-,-,-,,170,101,17.00,168.32
+29,20,14/10/2020,2nd,8,Delhi Capitals,Dubai International Cricket Stadium,c A M Rahane b K Rabada,1,4,25.00,,171,105,15.55,162.86
+30,21,17/10/2020,1st,7,Royal Challengers Bengaluru,Dubai International Cricket Stadium,lbw b C H Morris,2,3,66.67,,173,108,14.42,160.19
+31,,19/10/2020,2nd,-,Chennai Super Kings,Sheikh Zayed Stadium,did not bat,-,-,-,,173,108,14.42,160.19
+32,22,22/10/2020,1st,8,Sunrisers Hyderabad,Dubai International Cricket Stadium,not out,16*,7,228.57,,189,115,15.75,164.35
+33,,25/10/2020,2nd,-,Mumbai Indians,Sheikh Zayed Stadium,did not bat,-,-,-,,189,115,15.75,164.35
+34,,30/10/2020,2nd,-,Punjab Kings,Sheikh Zayed Stadium,did not bat,-,-,-,,189,115,15.75,164.35
+35,23,01/11/2020,2nd,9,Kolkata Knight Riders,Dubai International Cricket Stadium,c Shivam Mavi b K L Nagarkoti,6,9,66.67,,195,124,15.00,157.26
+36,,02/04/2023,1st,-,Royal Challengers Bengaluru,M Chinnaswamy Stadium,did not bat,-,-,-,,195,124,15.00,157.26
+37,24,22/04/2023,2nd,8,Punjab Kings,Wankhede Stadium,not out,1*,2,50.00,,196,126,15.08,155.56
+38,,30/04/2023,2nd,-,Rajasthan Royals,Wankhede Stadium,did not bat,-,-,-,,196,126,15.08,155.56
+39,,03/05/2023,2nd,-,Punjab Kings,Punjab Cricket Association IS Bindra Stadium,did not bat,-,-,-,,196,126,15.08,155.56
+40,25,06/05/2023,1st,9,Chennai Super Kings,MA Chidambaram Stadium,not out,3*,2,150.00,,199,128,15.31,155.47
+41,26,23/03/2025,2nd,8,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,not out,1*,1,100.00,,200,129,15.38,155.04
+42,27,26/03/2025,1st,9,Kolkata Knight Riders,Barsapara Cricket Stadium,b S H Johnson,16,7,228.57,,216,136,15.43,158.82
+43,28,30/03/2025,1st,8,Chennai Super Kings,Barsapara Cricket Stadium,c R D Gaikwad b K K Ahmed,0,2,0.00,,216,138,14.40,156.52
+44,,05/04/2025,1st,-,Punjab Kings,Maharaja Yadavindra Singh International Cricket St,did not bat,-,-,-,,216,138,14.40,156.52
+45,29,09/04/2025,2nd,8,Gujarat Titans,Narendra Modi Stadium,c Shubman Gill b M Prasidh Krishna,4,4,100.00,,220,142,13.75,154.93
+46,,13/04/2025,1st,-,Royal Challengers Bengaluru,Sawai Mansingh Stadium,did not bat,-,-,-,,220,142,13.75,154.93
+47,,16/04/2025,2nd,-,Delhi Capitals,Arun Jaitley Stadium,did not bat,-,-,-,,220,142,13.75,154.93
+48,,19/04/2025,2nd,-,Lucknow Super Giants,Sawai Mansingh Stadium,did not bat,-,-,-,,220,142,13.75,154.93
